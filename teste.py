@@ -1,3 +1,3 @@
 print('Teste 1')
 print('Teste 2')
-print('Testando alteração usando o revert.')
+print('Usando o revert')
