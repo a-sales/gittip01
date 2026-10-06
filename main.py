@@ -13,3 +13,5 @@ if senha_digitada == senha_correta:
     print("Acesso autorizado!")
 else:
     print("Acesso negado!")
+
+print("Teste de branch!!!")
